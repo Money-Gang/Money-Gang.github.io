@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Money-Gang.github.io/static/css/main.3a0b3e70.chunk.css",
+    "main.css": "/Money-Gang.github.io/static/css/main.fd637e44.chunk.css",
     "main.js": "/Money-Gang.github.io/static/js/main.72d07004.chunk.js",
     "main.js.map": "/Money-Gang.github.io/static/js/main.72d07004.chunk.js.map",
     "runtime-main.js": "/Money-Gang.github.io/static/js/runtime-main.3a2b1208.js",
@@ -8,15 +8,15 @@
     "static/js/2.766a3d0c.chunk.js": "/Money-Gang.github.io/static/js/2.766a3d0c.chunk.js",
     "static/js/2.766a3d0c.chunk.js.map": "/Money-Gang.github.io/static/js/2.766a3d0c.chunk.js.map",
     "index.html": "/Money-Gang.github.io/index.html",
-    "precache-manifest.89ea0f8ba60592db215a2c8fa8cb029b.js": "/Money-Gang.github.io/precache-manifest.89ea0f8ba60592db215a2c8fa8cb029b.js",
+    "precache-manifest.32b514c043b413bce2dc7d3e53484fa8.js": "/Money-Gang.github.io/precache-manifest.32b514c043b413bce2dc7d3e53484fa8.js",
     "service-worker.js": "/Money-Gang.github.io/service-worker.js",
-    "static/css/main.3a0b3e70.chunk.css.map": "/Money-Gang.github.io/static/css/main.3a0b3e70.chunk.css.map",
+    "static/css/main.fd637e44.chunk.css.map": "/Money-Gang.github.io/static/css/main.fd637e44.chunk.css.map",
     "static/js/2.766a3d0c.chunk.js.LICENSE.txt": "/Money-Gang.github.io/static/js/2.766a3d0c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3a2b1208.js",
     "static/js/2.766a3d0c.chunk.js",
-    "static/css/main.3a0b3e70.chunk.css",
+    "static/css/main.fd637e44.chunk.css",
     "static/js/main.72d07004.chunk.js"
   ]
 }
