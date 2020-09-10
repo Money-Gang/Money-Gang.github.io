@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Money-Gang.github.io/static/css/main.3a0b3e70.chunk.css",
-    "main.js": "/Money-Gang.github.io/static/js/main.b026a3e9.chunk.js",
-    "main.js.map": "/Money-Gang.github.io/static/js/main.b026a3e9.chunk.js.map",
-    "runtime-main.js": "/Money-Gang.github.io/static/js/runtime-main.3a2b1208.js",
-    "runtime-main.js.map": "/Money-Gang.github.io/static/js/runtime-main.3a2b1208.js.map",
-    "static/js/2.766a3d0c.chunk.js": "/Money-Gang.github.io/static/js/2.766a3d0c.chunk.js",
-    "static/js/2.766a3d0c.chunk.js.map": "/Money-Gang.github.io/static/js/2.766a3d0c.chunk.js.map",
-    "index.html": "/Money-Gang.github.io/index.html",
-    "precache-manifest.027b0a512bc251c74e15ecc81dca3ed2.js": "/Money-Gang.github.io/precache-manifest.027b0a512bc251c74e15ecc81dca3ed2.js",
-    "service-worker.js": "/Money-Gang.github.io/service-worker.js",
-    "static/css/main.3a0b3e70.chunk.css.map": "/Money-Gang.github.io/static/css/main.3a0b3e70.chunk.css.map",
-    "static/js/2.766a3d0c.chunk.js.LICENSE.txt": "/Money-Gang.github.io/static/js/2.766a3d0c.chunk.js.LICENSE.txt"
+    "main.css": "/Money-Gang/Money-Gang.github.io/static/css/main.3a0b3e70.chunk.css",
+    "main.js": "/Money-Gang/Money-Gang.github.io/static/js/main.5239fb33.chunk.js",
+    "main.js.map": "/Money-Gang/Money-Gang.github.io/static/js/main.5239fb33.chunk.js.map",
+    "runtime-main.js": "/Money-Gang/Money-Gang.github.io/static/js/runtime-main.1708b055.js",
+    "runtime-main.js.map": "/Money-Gang/Money-Gang.github.io/static/js/runtime-main.1708b055.js.map",
+    "static/js/2.766a3d0c.chunk.js": "/Money-Gang/Money-Gang.github.io/static/js/2.766a3d0c.chunk.js",
+    "static/js/2.766a3d0c.chunk.js.map": "/Money-Gang/Money-Gang.github.io/static/js/2.766a3d0c.chunk.js.map",
+    "index.html": "/Money-Gang/Money-Gang.github.io/index.html",
+    "precache-manifest.cbd0787ddf2f1a0798eb592518f87552.js": "/Money-Gang/Money-Gang.github.io/precache-manifest.cbd0787ddf2f1a0798eb592518f87552.js",
+    "service-worker.js": "/Money-Gang/Money-Gang.github.io/service-worker.js",
+    "static/css/main.3a0b3e70.chunk.css.map": "/Money-Gang/Money-Gang.github.io/static/css/main.3a0b3e70.chunk.css.map",
+    "static/js/2.766a3d0c.chunk.js.LICENSE.txt": "/Money-Gang/Money-Gang.github.io/static/js/2.766a3d0c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a2b1208.js",
+    "static/js/runtime-main.1708b055.js",
     "static/js/2.766a3d0c.chunk.js",
     "static/css/main.3a0b3e70.chunk.css",
-    "static/js/main.b026a3e9.chunk.js"
+    "static/js/main.5239fb33.chunk.js"
   ]
 }
