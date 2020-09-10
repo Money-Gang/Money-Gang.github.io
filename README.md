@@ -2,8 +2,8 @@
 
 Per aggiornare la pagina:
 
-1- Clonare in locale sia questa repository ( Money-Gang.github.io) sia la repository "Site";
-2- Fare le modifiche su Site;
+1* Clonare in locale sia questa repository ( Money-Gang.github.io) sia la repository "Site";
+2* Fare le modifiche su Site;
 3- Pushare i cambiamenti di Site da locale;
 4- Fare "npm run build";
 5- Fare "npm run deploy";
