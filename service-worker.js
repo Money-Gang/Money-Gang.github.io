@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Money-Gang.github.io/precache-manifest.1eb2417d0fca63aee6b12ead975c1d82.js"
+  "/Money-Gang.github.io/precache-manifest.102da52e5a033f41d5c72e047ef9aa7d.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -35,5 +35,5 @@ workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Money-Gang.github.io/index.html"), {
   
-  blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
+  blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });
