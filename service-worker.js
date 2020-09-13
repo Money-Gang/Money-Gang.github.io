@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Money-Gang.github.io/precache-manifest.80a9ab05f7fda302b92eec39a212d68a.js"
+  "/Money-Gang.github.io/precache-manifest.dbe20f0dfa276809e871b8d7860315c9.js"
 );
 
 self.addEventListener('message', (event) => {
